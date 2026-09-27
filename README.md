@@ -1,8 +1,8 @@
-# Dino's Junk Haul — Business Website
+# Dino's Junk & Haul — Business Website
 
-A bilingual (English/Spanish) landing page for **Dino's Junk Haul**, a residential junk removal and hauling business in Broward & Miami-Dade, Florida.
+A bilingual (English/Spanish) landing page for **Dino's Junk & Haul**, a residential junk removal and hauling business in Broward & Miami-Dade, Florida.
 
-**Live preview:** https://claude.ai/code/artifact/209eeb49-0ff6-4748-8b86-6e08267a49fb
+**Live preview:** https://claude.ai/artifact/52dhvsvtzf2mxCHrfYVSYa
 
 ## Overview
 
